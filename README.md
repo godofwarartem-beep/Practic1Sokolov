@@ -1,1 +1,1 @@
-# Practic1Sokolov
+# README
